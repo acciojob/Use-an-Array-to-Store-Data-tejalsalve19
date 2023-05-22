@@ -5,3 +5,4 @@ let tejArr=[
 	{'four',5,'six',false},
 	{'five',,'seven',true}
 ];
+console.log(tejArr);
