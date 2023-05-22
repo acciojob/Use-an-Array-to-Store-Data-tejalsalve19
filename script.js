@@ -3,6 +3,6 @@ let tejArr=[
 	{'two',3,'four',false},
 	{'three',4,'five',true},
 	{'four',5,'six',false},
-	{'five',,'seven',true}
+	{'five',,'seven',true},
 ];
 console.log(tejArr.length);
