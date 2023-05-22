@@ -7,4 +7,4 @@ let tejArr=[
 		{'five',,'seven',true}
 	]
 ];
-console.log(tejArr.length);
+console.log(tejArr);
